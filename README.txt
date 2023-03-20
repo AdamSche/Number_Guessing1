@@ -1,0 +1,3 @@
+This application creates a random number between 1 and 100 and then challenges the user to guess what it is. The user is prompted to make another estimate after the application notifies them whether their previous guess was too high or too low. Until the player successfully guesses the number, the game continues.
+
+You need just use the start game() method to begin the game. The parameters given to the random.randint() method can also be changed to alter the range of values that are utilized.
